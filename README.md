@@ -7,7 +7,7 @@ This is a Hospital Management System developed by Team Fresher. We use laravel b
 </a>
 
 
-## The Functions We Fought
+## The Functions I Fought
 1. CRUD
 2. Mail Notification
 3. Authorization and Authentication
