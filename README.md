@@ -17,6 +17,14 @@ This is a Hospital Management System developed by Team Fresher. We use laravel b
 7. Oauth 2 function (github , gmail)
 8. RealTime Video Chatting
 
+## Laravel Features
+1. Laravel Breeze
+2. Laravel Sanctum
+3. Mail Sending
+4. Event
+5. Scheduler
+6. Pusher
+
 ## Recommended IDE Setup for local
 
 [VSCode](https://code.visualstudio.com/) + [mysql wordbrench](https://www.mysql.com/products/workbench/) 
